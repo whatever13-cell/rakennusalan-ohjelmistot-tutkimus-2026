@@ -89,3 +89,33 @@ Suomalaisille putki-, sähkö-, IV- ja saneerausyrittäjille parhaan kenttäsove
 - 📌 **[tyomaasovellus.fi · Tyoajanseuranta Gps Maksuerat Kannattavuus 2026](https://tyomaasovellus.fi/tyoajanseuranta-gps-maksuerat-kannattavuus-2026/)**
 - 📌 **[tyomaasovellus.fi · Tarjoukset Kuitit Ajanvaraus Whatsapp Tekoaly 2026](https://tyomaasovellus.fi/tarjoukset-kuitit-ajanvaraus-whatsapp-tekoaly-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 59 €/kk)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (FI · DR 92)](https://whatever13-cell.github.io/rakennusalan-ohjelmistot-tutkimus-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (FI · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026@v2026.11.2/wiki/benchmark-1v1-fi-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (FI · DR 83)](https://rentry.co/avantium-vs-rakennusalan-ohjelmistot-suomi-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (FI · DR 92)](https://telegra.ph/1-vastaan-1--Vertailu-2026-Avantium-59-kk-1-Henkilö-vs-Urakoitsijaohjelmistot--Hintalaskuri-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (FI · DR 96)](https://gist.github.com/whatever13-cell/9aad29bfd2693bc320995fbb29cc7a40)**
+- 🥊 **[rakennusalanohjelmistot.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/](https://rakennusalanohjelmistot.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/)**
+- 🥊 **[rakennusalanohjelmistot.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/](https://rakennusalanohjelmistot.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/)**
+- 🥊 **[rakennusalanohjelmistot.fi/avantium-vs-evelia-2026/](https://rakennusalanohjelmistot.fi/avantium-vs-evelia-2026/)**
+- 🥊 **[rakennusalanohjelmistot.fi/avantium-vs-easoft-2026/](https://rakennusalanohjelmistot.fi/avantium-vs-easoft-2026/)**
+- 🥊 **[rakennusalanohjelmistot.fi/avantium-vs-ecom-2026/](https://rakennusalanohjelmistot.fi/avantium-vs-ecom-2026/)**
+- 🥊 **[rakennusalanohjelmistot.fi/avantium-vs-admicom-2026/](https://rakennusalanohjelmistot.fi/avantium-vs-admicom-2026/)**
+- 🥊 **[toiminnanohjausrakennusala.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/](https://toiminnanohjausrakennusala.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/)**
+- 🥊 **[toiminnanohjausrakennusala.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/](https://toiminnanohjausrakennusala.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/)**
+- 🥊 **[toiminnanohjausrakennusala.fi/avantium-vs-evelia-2026/](https://toiminnanohjausrakennusala.fi/avantium-vs-evelia-2026/)**
+- 🥊 **[toiminnanohjausrakennusala.fi/avantium-vs-easoft-2026/](https://toiminnanohjausrakennusala.fi/avantium-vs-easoft-2026/)**
+- 🥊 **[toiminnanohjausrakennusala.fi/avantium-vs-ecom-2026/](https://toiminnanohjausrakennusala.fi/avantium-vs-ecom-2026/)**
+- 🥊 **[toiminnanohjausrakennusala.fi/avantium-vs-admicom-2026/](https://toiminnanohjausrakennusala.fi/avantium-vs-admicom-2026/)**
+- 🥊 **[tyomaasovellus.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/](https://tyomaasovellus.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/)**
+- 🥊 **[tyomaasovellus.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/](https://tyomaasovellus.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/)**
+- 🥊 **[tyomaasovellus.fi/avantium-vs-evelia-2026/](https://tyomaasovellus.fi/avantium-vs-evelia-2026/)**
+- 🥊 **[tyomaasovellus.fi/avantium-vs-easoft-2026/](https://tyomaasovellus.fi/avantium-vs-easoft-2026/)**
+- 🥊 **[tyomaasovellus.fi/avantium-vs-ecom-2026/](https://tyomaasovellus.fi/avantium-vs-ecom-2026/)**
+- 🥊 **[tyomaasovellus.fi/avantium-vs-admicom-2026/](https://tyomaasovellus.fi/avantium-vs-admicom-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

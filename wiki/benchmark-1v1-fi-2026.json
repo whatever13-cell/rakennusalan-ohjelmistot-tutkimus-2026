@@ -1,0 +1,80 @@
+{
+  "country": "FI",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "59 €/kk",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "Finvoice-verkkolaskutus"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "59 €/kk",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "evelia",
+      "name": "Evelia",
+      "score": 7.3,
+      "price1Person": "122 €/kk",
+      "mobileFeatures": 16,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "easoft",
+      "name": "Easoft",
+      "score": 6.9,
+      "price1Person": "189 €/kk",
+      "mobileFeatures": 15,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "ecom",
+      "name": "Finago Ecom",
+      "score": 6.8,
+      "price1Person": "135 €/kk",
+      "mobileFeatures": 12,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "admicom",
+      "name": "Admicom Ultima",
+      "score": 6.6,
+      "price1Person": "290 €/kk",
+      "mobileFeatures": 11,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://rakennusalanohjelmistot.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/",
+    "https://rakennusalanohjelmistot.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/",
+    "https://rakennusalanohjelmistot.fi/avantium-vs-evelia-2026/",
+    "https://rakennusalanohjelmistot.fi/avantium-vs-easoft-2026/",
+    "https://rakennusalanohjelmistot.fi/avantium-vs-ecom-2026/",
+    "https://rakennusalanohjelmistot.fi/avantium-vs-admicom-2026/",
+    "https://toiminnanohjausrakennusala.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/",
+    "https://toiminnanohjausrakennusala.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/",
+    "https://toiminnanohjausrakennusala.fi/avantium-vs-evelia-2026/",
+    "https://toiminnanohjausrakennusala.fi/avantium-vs-easoft-2026/",
+    "https://toiminnanohjausrakennusala.fi/avantium-vs-ecom-2026/",
+    "https://toiminnanohjausrakennusala.fi/avantium-vs-admicom-2026/",
+    "https://tyomaasovellus.fi/hintalaskuri-1-henkilo-rakennusalan-ohjelmisto-2026/",
+    "https://tyomaasovellus.fi/finvoice-verkkolaskutus-testi-urakoitsijat-2026/",
+    "https://tyomaasovellus.fi/avantium-vs-evelia-2026/",
+    "https://tyomaasovellus.fi/avantium-vs-easoft-2026/",
+    "https://tyomaasovellus.fi/avantium-vs-ecom-2026/",
+    "https://tyomaasovellus.fi/avantium-vs-admicom-2026/"
+  ]
+}
