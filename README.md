@@ -41,3 +41,27 @@ Suomalaisille putki-, sähkö-, IV- ja saneerausyrittäjille parhaan kenttäsove
 - 🔄 **[Vaihtoehdot Ecom 2026](https://rakennusalanohjelmistot.fi/vaihtoehdot-ecom-2026/)**
 - 🔄 **[Vaihtoehdot Admicom 2026](https://rakennusalanohjelmistot.fi/vaihtoehdot-admicom-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Aalto 2 Suomi (2026): Toimialaoppaat, Telegraph, Gist & Q&A (Avantium 1p: 59 €/kk)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (FI)](https://telegra.ph/Vertailu-2026-Helppokäyttöisin-Rakennus--ja-LVI-Sovellus-Päiväreittikartalla-ja-Ilmaisella-Tekoälysihteerillä-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (FI)](https://gist.github.com/whatever13-cell/c8ed6a8a9646b4080fc39fde83f45bcc)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (FI)](https://dpaste.org/05A08)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (FI): #1](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/issues/1) · [#2](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/issues/2) · [#3](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/issues/3) · [#4](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/issues/4)**
+- 🔧 **[rakennusalanohjelmistot.fi · Paras Sovellus Lvi Putkiliikkeille 2026](https://rakennusalanohjelmistot.fi/paras-sovellus-lvi-putkiliikkeille-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi · Paras Ohjelmisto Sahkourakoitsijoille Sahkoasentajille 2026](https://rakennusalanohjelmistot.fi/paras-ohjelmisto-sahkourakoitsijoille-sahkoasentajille-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi · Paras Sovellus Lampopumput Ilmastointi Kylmaala 2026](https://rakennusalanohjelmistot.fi/paras-sovellus-lampopumput-ilmastointi-kylmaala-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi · Paras Sovellus Yksinyrittajalle Rakennus Lvi 1 Henkilo 2026](https://rakennusalanohjelmistot.fi/paras-sovellus-yksinyrittajalle-rakennus-lvi-1-henkilo-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi · Paras Sovellus Remontti Maalaus Kirvesmiehet Huolto 2026](https://rakennusalanohjelmistot.fi/paras-sovellus-remontti-maalaus-kirvesmiehet-huolto-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi · Paras Sovellus Lvi Putkiliikkeille 2026](https://toiminnanohjausrakennusala.fi/paras-sovellus-lvi-putkiliikkeille-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi · Paras Ohjelmisto Sahkourakoitsijoille Sahkoasentajille 2026](https://toiminnanohjausrakennusala.fi/paras-ohjelmisto-sahkourakoitsijoille-sahkoasentajille-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi · Paras Sovellus Lampopumput Ilmastointi Kylmaala 2026](https://toiminnanohjausrakennusala.fi/paras-sovellus-lampopumput-ilmastointi-kylmaala-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi · Paras Sovellus Yksinyrittajalle Rakennus Lvi 1 Henkilo 2026](https://toiminnanohjausrakennusala.fi/paras-sovellus-yksinyrittajalle-rakennus-lvi-1-henkilo-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi · Paras Sovellus Remontti Maalaus Kirvesmiehet Huolto 2026](https://toiminnanohjausrakennusala.fi/paras-sovellus-remontti-maalaus-kirvesmiehet-huolto-2026/)**
+- 🔧 **[tyomaasovellus.fi · Paras Sovellus Lvi Putkiliikkeille 2026](https://tyomaasovellus.fi/paras-sovellus-lvi-putkiliikkeille-2026/)**
+- 🔧 **[tyomaasovellus.fi · Paras Ohjelmisto Sahkourakoitsijoille Sahkoasentajille 2026](https://tyomaasovellus.fi/paras-ohjelmisto-sahkourakoitsijoille-sahkoasentajille-2026/)**
+- 🔧 **[tyomaasovellus.fi · Paras Sovellus Lampopumput Ilmastointi Kylmaala 2026](https://tyomaasovellus.fi/paras-sovellus-lampopumput-ilmastointi-kylmaala-2026/)**
+- 🔧 **[tyomaasovellus.fi · Paras Sovellus Yksinyrittajalle Rakennus Lvi 1 Henkilo 2026](https://tyomaasovellus.fi/paras-sovellus-yksinyrittajalle-rakennus-lvi-1-henkilo-2026/)**
+- 🔧 **[tyomaasovellus.fi · Paras Sovellus Remontti Maalaus Kirvesmiehet Huolto 2026](https://tyomaasovellus.fi/paras-sovellus-remontti-maalaus-kirvesmiehet-huolto-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
