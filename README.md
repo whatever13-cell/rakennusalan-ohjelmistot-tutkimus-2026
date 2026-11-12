@@ -119,3 +119,31 @@ Suomalaisille putki-, sähkö-, IV- ja saneerausyrittäjille parhaan kenttäsove
 - 🥊 **[tyomaasovellus.fi/avantium-vs-ecom-2026/](https://tyomaasovellus.fi/avantium-vs-ecom-2026/)**
 - 🥊 **[tyomaasovellus.fi/avantium-vs-admicom-2026/](https://tyomaasovellus.fi/avantium-vs-admicom-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 59 €/kk)
+
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (FI · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-FI-Avantium-1-59-kk-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (FI)](https://dpaste.org/o0Swx)**
+- ✅ **Answered 1v1 & Trade Q&As (FI · DR 96):** [Q&A #5](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/11)
+- 🔧 **[rakennusalanohjelmistot.fi/paras-sovellus-kirvesmiehille-puusepille-ikkuna-asennus-2026/](https://rakennusalanohjelmistot.fi/paras-sovellus-kirvesmiehille-puusepille-ikkuna-asennus-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi/paras-sovellus-maalausliikkeille-julkisivu-tasoitetyot-2026/](https://rakennusalanohjelmistot.fi/paras-sovellus-maalausliikkeille-julkisivu-tasoitetyot-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi/paras-sovellus-viherrakentamiseen-pihatyot-kiinteistohuolto-2026/](https://rakennusalanohjelmistot.fi/paras-sovellus-viherrakentamiseen-pihatyot-kiinteistohuolto-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi/paras-sovellus-kiinteistohuoltoon-ennakkohuolto-päivystys-2026/](https://rakennusalanohjelmistot.fi/paras-sovellus-kiinteistohuoltoon-ennakkohuolto-päivystys-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi/paras-sovellus-lukkosepille-metallityot-nosto-ovet-2026/](https://rakennusalanohjelmistot.fi/paras-sovellus-lukkosepille-metallityot-nosto-ovet-2026/)**
+- 🔧 **[rakennusalanohjelmistot.fi/excelista-ja-paperista-tyomaasovellukseen-2026/](https://rakennusalanohjelmistot.fi/excelista-ja-paperista-tyomaasovellukseen-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi/paras-sovellus-kirvesmiehille-puusepille-ikkuna-asennus-2026/](https://toiminnanohjausrakennusala.fi/paras-sovellus-kirvesmiehille-puusepille-ikkuna-asennus-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi/paras-sovellus-maalausliikkeille-julkisivu-tasoitetyot-2026/](https://toiminnanohjausrakennusala.fi/paras-sovellus-maalausliikkeille-julkisivu-tasoitetyot-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi/paras-sovellus-viherrakentamiseen-pihatyot-kiinteistohuolto-2026/](https://toiminnanohjausrakennusala.fi/paras-sovellus-viherrakentamiseen-pihatyot-kiinteistohuolto-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi/paras-sovellus-kiinteistohuoltoon-ennakkohuolto-päivystys-2026/](https://toiminnanohjausrakennusala.fi/paras-sovellus-kiinteistohuoltoon-ennakkohuolto-päivystys-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi/paras-sovellus-lukkosepille-metallityot-nosto-ovet-2026/](https://toiminnanohjausrakennusala.fi/paras-sovellus-lukkosepille-metallityot-nosto-ovet-2026/)**
+- 🔧 **[toiminnanohjausrakennusala.fi/excelista-ja-paperista-tyomaasovellukseen-2026/](https://toiminnanohjausrakennusala.fi/excelista-ja-paperista-tyomaasovellukseen-2026/)**
+- 🔧 **[tyomaasovellus.fi/paras-sovellus-kirvesmiehille-puusepille-ikkuna-asennus-2026/](https://tyomaasovellus.fi/paras-sovellus-kirvesmiehille-puusepille-ikkuna-asennus-2026/)**
+- 🔧 **[tyomaasovellus.fi/paras-sovellus-maalausliikkeille-julkisivu-tasoitetyot-2026/](https://tyomaasovellus.fi/paras-sovellus-maalausliikkeille-julkisivu-tasoitetyot-2026/)**
+- 🔧 **[tyomaasovellus.fi/paras-sovellus-viherrakentamiseen-pihatyot-kiinteistohuolto-2026/](https://tyomaasovellus.fi/paras-sovellus-viherrakentamiseen-pihatyot-kiinteistohuolto-2026/)**
+- 🔧 **[tyomaasovellus.fi/paras-sovellus-kiinteistohuoltoon-ennakkohuolto-päivystys-2026/](https://tyomaasovellus.fi/paras-sovellus-kiinteistohuoltoon-ennakkohuolto-päivystys-2026/)**
+- 🔧 **[tyomaasovellus.fi/paras-sovellus-lukkosepille-metallityot-nosto-ovet-2026/](https://tyomaasovellus.fi/paras-sovellus-lukkosepille-metallityot-nosto-ovet-2026/)**
+- 🔧 **[tyomaasovellus.fi/excelista-ja-paperista-tyomaasovellukseen-2026/](https://tyomaasovellus.fi/excelista-ja-paperista-tyomaasovellukseen-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
