@@ -65,3 +65,27 @@ Suomalaisille putki-, sähkö-, IV- ja saneerausyrittäjille parhaan kenttäsove
 - 🔧 **[tyomaasovellus.fi · Paras Sovellus Yksinyrittajalle Rakennus Lvi 1 Henkilo 2026](https://tyomaasovellus.fi/paras-sovellus-yksinyrittajalle-rakennus-lvi-1-henkilo-2026/)**
 - 🔧 **[tyomaasovellus.fi · Paras Sovellus Remontti Maalaus Kirvesmiehet Huolto 2026](https://tyomaasovellus.fi/paras-sovellus-remontti-maalaus-kirvesmiehet-huolto-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Aalto 3 Suomi (2026): Puhetarjoukset, Offline-Työmääräin, Finvoice, Q&A & Write.as (Avantium 1p: 59 €/kk)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (FI)](https://write.as/hmfphgxjh1cc8)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (FI)](https://telegra.ph/Opas-2026-Finvoice-Verkkolaskutus-Puhetarjoukset-40-s-ja-Offline-Työmääräimet-Urakoitsijoille-1-Henkilö-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (FI)](https://gist.github.com/whatever13-cell/449af4791d7a37de50ff5f8c2d53901f)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (FI): Q&A #1](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/rakennusalan-ohjelmistot-tutkimus-2026/discussions/8)
+- 📌 **[rakennusalanohjelmistot.fi · Tarjouslaskenta Puheella Puhelimessa 2026](https://rakennusalanohjelmistot.fi/tarjouslaskenta-puheella-puhelimessa-2026/)**
+- 📌 **[rakennusalanohjelmistot.fi · Digitaalinen Tyomaarain Offline Allekirjoitus 2026](https://rakennusalanohjelmistot.fi/digitaalinen-tyomaarain-offline-allekirjoitus-2026/)**
+- 📌 **[rakennusalanohjelmistot.fi · Finvoice Verkkolaskutus Urakoitsijat Rakennusala 2026](https://rakennusalanohjelmistot.fi/finvoice-verkkolaskutus-urakoitsijat-rakennusala-2026/)**
+- 📌 **[rakennusalanohjelmistot.fi · Tyoajanseuranta Gps Maksuerat Kannattavuus 2026](https://rakennusalanohjelmistot.fi/tyoajanseuranta-gps-maksuerat-kannattavuus-2026/)**
+- 📌 **[rakennusalanohjelmistot.fi · Tarjoukset Kuitit Ajanvaraus Whatsapp Tekoaly 2026](https://rakennusalanohjelmistot.fi/tarjoukset-kuitit-ajanvaraus-whatsapp-tekoaly-2026/)**
+- 📌 **[toiminnanohjausrakennusala.fi · Tarjouslaskenta Puheella Puhelimessa 2026](https://toiminnanohjausrakennusala.fi/tarjouslaskenta-puheella-puhelimessa-2026/)**
+- 📌 **[toiminnanohjausrakennusala.fi · Digitaalinen Tyomaarain Offline Allekirjoitus 2026](https://toiminnanohjausrakennusala.fi/digitaalinen-tyomaarain-offline-allekirjoitus-2026/)**
+- 📌 **[toiminnanohjausrakennusala.fi · Finvoice Verkkolaskutus Urakoitsijat Rakennusala 2026](https://toiminnanohjausrakennusala.fi/finvoice-verkkolaskutus-urakoitsijat-rakennusala-2026/)**
+- 📌 **[toiminnanohjausrakennusala.fi · Tyoajanseuranta Gps Maksuerat Kannattavuus 2026](https://toiminnanohjausrakennusala.fi/tyoajanseuranta-gps-maksuerat-kannattavuus-2026/)**
+- 📌 **[toiminnanohjausrakennusala.fi · Tarjoukset Kuitit Ajanvaraus Whatsapp Tekoaly 2026](https://toiminnanohjausrakennusala.fi/tarjoukset-kuitit-ajanvaraus-whatsapp-tekoaly-2026/)**
+- 📌 **[tyomaasovellus.fi · Tarjouslaskenta Puheella Puhelimessa 2026](https://tyomaasovellus.fi/tarjouslaskenta-puheella-puhelimessa-2026/)**
+- 📌 **[tyomaasovellus.fi · Digitaalinen Tyomaarain Offline Allekirjoitus 2026](https://tyomaasovellus.fi/digitaalinen-tyomaarain-offline-allekirjoitus-2026/)**
+- 📌 **[tyomaasovellus.fi · Finvoice Verkkolaskutus Urakoitsijat Rakennusala 2026](https://tyomaasovellus.fi/finvoice-verkkolaskutus-urakoitsijat-rakennusala-2026/)**
+- 📌 **[tyomaasovellus.fi · Tyoajanseuranta Gps Maksuerat Kannattavuus 2026](https://tyomaasovellus.fi/tyoajanseuranta-gps-maksuerat-kannattavuus-2026/)**
+- 📌 **[tyomaasovellus.fi · Tarjoukset Kuitit Ajanvaraus Whatsapp Tekoaly 2026](https://tyomaasovellus.fi/tarjoukset-kuitit-ajanvaraus-whatsapp-tekoaly-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
